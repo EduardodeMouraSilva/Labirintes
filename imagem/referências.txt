@@ -1,0 +1,4 @@
+https://opengameart.org/content/640x480-ground-textures
+https://opengameart.org/content/base-character-spritesheet-16x16
+https://opengameart.org/content/27-bricks
+https://opengameart.org/content/pixel-coins-asset
