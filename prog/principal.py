@@ -31,6 +31,9 @@ nome_jogo = times_new.render('Labirintes', False, AMARELO)
 
 relogio = pg.time.Clock()
 
+abertura.play(loops=-1)
+abertura.set_volume(0.5)
+
 Continuar = True
 while True:
     for event in pg.event.get():

@@ -51,6 +51,8 @@ class Personagem(pg.sprite.Sprite):
         
     def mover(self, tecla):
         self.update(tecla)
+        if tecla==pg.K_LEFT or tecla==pg.K_RIGHT or tecla==pg.K_UP or tecla==pg.K_DOWN:
+            andar.play() 
         if tecla == pg.K_LEFT:
             self.rect.left -= self.velocidade
         elif tecla == pg.K_RIGHT:
