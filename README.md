@@ -19,6 +19,10 @@ Eduardo de Moura
   
 * "Pixel Coins Asset" by truezipp licensed CCO: https://opengameart.org/content/pixel-coins-asset
 
+### Sons do jogo
+* "The Adventure Begins" by Bart licensed CC-BY 3.0: https://opengameart.org/content/adventure-begins    
+* "Walking on snow sound" by IgnasD licensed CC0:https://opengameart.org/content/walking-on-snow-sound
+
 
 
 
